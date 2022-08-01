@@ -1,5 +1,6 @@
-# Tugas-wp2-
-Anggota kelompok 
-Rizal Setiawan 17190046 
-Edwin Rismaulana 17190003 
-Rizal Ramli 17190071
+# Tugas-wp2-Kelompok Randy 
+-Abdul Latif (17190033)
+-DHIMAS NANDA PRIHADITAMA(17190057)
+-Rudiana (17190099)
+-Randy Rizkika Puta(17190017)
+-Khanaya adjie akbar (17190032)
